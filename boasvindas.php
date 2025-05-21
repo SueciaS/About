@@ -8,13 +8,14 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="js/jquery-3.7.1.min.js" defer></script>
     <script src="js/bootstrap.js" defer></script>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 
 
 <div class="container mt-5">
-    <div class="row   justify-content-center">
+    <div class="row   justify-content-center login">
         <div class="col-12 col-sm-6 col-md-6 col-lg-6">
             <div class="card">
                 <div class="card-header bg-info">
